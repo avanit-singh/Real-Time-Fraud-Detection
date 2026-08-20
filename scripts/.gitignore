@@ -1,0 +1,9 @@
+# Ignore all data files (generated locally by users)
+data/
+*.parquet
+*.csv
+*.json
+
+# Ignore PySpark/Python cache
+__pycache__/
+*.class
