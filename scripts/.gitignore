@@ -7,3 +7,4 @@ data/
 # Ignore PySpark/Python cache
 __pycache__/
 *.class
+**/.ipynb_checkpoints/
